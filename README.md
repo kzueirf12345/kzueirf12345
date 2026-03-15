@@ -15,20 +15,26 @@
   <a href="mailto:popov.vs@phystech.edu">
     <img src="https://img.shields.io/badge/✉️_Email-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1b26&color=7aa2f7" alt="Email" />
   </a>
+
+  <br>
   
   <a href="tel:+79955598914">
     <img src="https://img.shields.io/badge/📞_Phone-c0caf5?style=for-the-badge&logo=phone&logoColor=white&labelColor=1a1b26&color=bb9af7" alt="Phone" />
   </a>
+
+  <br>
   
   <a href="https://t.me/urodish" target="_blank">
     <img src="https://img.shields.io/badge/✈️_Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b26&color=7aa2f7" alt="Telegram" />
   </a>
   
-  <br/>
+  <br>
+  <br>
   
   <a href="https://codeforces.com/profile/jaba0192837465" target="_blank">
     <img src="https://img.shields.io/badge/⚡_Codeforces-ff9e64?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b26&color=ff9e64" alt="Codeforces" />
   </a>
+  <br>
   
   <a href="https://leetcode.com/kzueirf1234567" target="_blank">
     <img src="https://img.shields.io/badge/💻_LeetCode-ffa657?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b26&color=ffa657" alt="LeetCode" />
