@@ -13,26 +13,21 @@
 <div align="left">
   
   <a href="mailto:popov.vs@phystech.edu">
-    <img src="https://img.shields.io/badge/✉️_Email-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1b26&color=7aa2f7" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Email-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1a1b26&color=7aa2f7" alt="Email" style="margin: 0 8px;" />
   </a>
-
-  <br>
   
   <a href="https://t.me/urodish" target="_blank">
-    <img src="https://img.shields.io/badge/✈️_Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b26&color=7aa2f7" alt="Telegram" />
+    <img src="https://img.shields.io/badge/✈️_Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b26&color=7aa2f7" alt="Telegram" style="margin: 0 8px;"/>
   </a>
-  
-  <br>
-  <br>
   
   <a href="https://codeforces.com/profile/jaba0192837465" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_Codeforces-ff9e64?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b26&color=ff9e64" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/⚡_Codeforces-ff9e64?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b26&color=ff9e64" alt="Codeforces" style="margin: 0 8px;"/>
   </a>
-  <br>
   
   <a href="https://leetcode.com/kzueirf1234567" target="_blank">
-    <img src="https://img.shields.io/badge/💻_LeetCode-ffa657?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b26&color=ffa657" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/💻_LeetCode-ffa657?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b26&color=ffa657" alt="LeetCode" style="margin: 0 8px;"/>
   </a>
+
 </div>
 
 <br>
