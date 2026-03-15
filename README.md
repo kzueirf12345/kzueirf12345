@@ -18,12 +18,6 @@
 
   <br>
   
-  <a href="tel:+79955598914">
-    <img src="https://img.shields.io/badge/📞_Phone-c0caf5?style=for-the-badge&logo=phone&logoColor=white&labelColor=1a1b26&color=bb9af7" alt="Phone" />
-  </a>
-
-  <br>
-  
   <a href="https://t.me/urodish" target="_blank">
     <img src="https://img.shields.io/badge/✈️_Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b26&color=7aa2f7" alt="Telegram" />
   </a>
