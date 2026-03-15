@@ -4,6 +4,8 @@
 
 > 🎓 DREC MIPT '27 | Computer Science & Engineering
 
+> Check my **[CV](CV.pdf)**  
+
 </div>
 
 ## Connect
@@ -28,6 +30,8 @@
     <img src="https://img.shields.io/badge/💻_LeetCode-ffa657?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b26&color=ffa657" alt="LeetCode" style="margin: 0 20px;"/>
   </a>
 
+  <br>
+
 </div>
 
 <br>
@@ -41,7 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++" style="margin: 0 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" style="margin: 0 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" title="LaTeX" style="margin: 0 8px;"/>
-  <span style="margin-left: 10px; vertical-align: middle;"><strong>ASM x86-64 & DOS</strong></span>
+  
+  <!-- Assembly Icon (custom SVG) -->
+  <img src="https://img.shields.io/badge/ASM-x86__64-7aa2f7?style=for-the-badge&logo=assembly&logoColor=white" alt="ASM" style="margin: 0 8px; height: 40px;"/>
+  
+  <!-- RTL Badge -->
+  <img src="https://img.shields.io/badge/RTL-Language-bb9af7?style=for-the-badge&logoColor=white" alt="RTL" style="margin: 0 8px; height: 40px;"/>
 </div>
 
 ### Development Tools

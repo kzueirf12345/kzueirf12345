@@ -1,0 +1,103 @@
+\documentclass[11pt,a4paper, sans]{moderncv}
+
+% Настройки пакетов
+\usepackage[scale=0.85]{geometry}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{graphicx}
+\usepackage{cmap}
+\usepackage{cmbright}
+\usepackage{lettrine}
+
+% Цветовая схема
+\definecolor{primary}{RGB}{0, 100, 0} % тёмно-зелёный
+\definecolor{secondary}{RGB}{34, 139, 34} % лесной зелёный
+\definecolor{accent}{RGB}{50, 205, 50} % лаймовый
+
+% Стиль CV
+\moderncvstyle{banking}
+\moderncvcolor{green}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Настройка полей
+\setlength{\hintscolumnwidth}{2.5cm}
+
+% Кастомные команды
+\newcommand{\cvproject}[4]{
+    \cvitem{#1}{\textbf{#2}\hfill\href{#3}{\color{secondary}\faLink}\\
+    \begin{minipage}[t]{\linewidth}\small\color{gray}#4\end{minipage}}
+}
+
+%===================================================================================================
+% Основная информация
+%===================================================================================================
+
+\name{\fontencoding{T2A}\selectfont Попов}{\fontencoding{T2A}\selectfont Владимир}
+\title{\fontencoding{T2A}\selectfont Студент 2 курса ФРКТ МФТИ}
+\address{\fontencoding{T2A}\selectfont Москва, Россия}
+\phone[mobile]{\fontencoding{T2A}\selectfont +7 (995) 559-89-14}
+\email{popov.vs@phystech.edu}
+\social[github]{kzueirf12345}
+\social[telegram]{urodish}
+
+\begin{document}
+\begin{minipage}{0.2\textwidth}
+    \includegraphics[width=90pt]{assets/portret.png}
+\end{minipage}
+\begin{minipage}{0.8\textwidth}
+    \makecvtitle
+\end{minipage}
+
+\section{\color{primary}\faGraduationCap\ Образование}
+\cventry{2024--н.в.}{Бакалавриат}{МФТИ (ФРКТ)}{}{}{
+\begin{itemize}[leftmargin=*,nosep]
+    \item Информатика и вычислительная техника
+    \item Средний балл: 7.69/10
+    \item Средний балл по программированию: 9/10
+\end{itemize}}
+
+\section{\color{primary}\faBriefcase\ Опыт работы}
+\cventry{Июль--Август 2025}{Стажёр-инженер}{ПАО «Байкал-Электроникс»}{}{}{
+Разработка L2 cache для графического процессора общего назначения. Реализация модулей на Verilog. Участие в верификации и анализе производительности кэш-подсистемы.}
+
+\section{\color{primary}\faUserGraduate\ Преподавательская деятельность}
+\cventry{Сентябрь--Декабрь 2025}{Ментор}{МФТИ (ФРКТ)}{}{}{
+Менторство первокурсников на углублённом курсе по программированию на языке C в рамках 3-го семестра.}
+
+\section{\color{primary}\faCode\ Проекты}
+
+\cvproject{Октябрь - Декабрь 2025}{Оптический конструктор с поддержкой плагинов}{https://github.com/kzueirf12345/optor}{
+Рейтрейсинг примитивов. Оконный менеджер и система управления. Кросс-библиотечные плагины для дорисовки.}
+
+\cvproject{Апрель - Май 2025}{Транслятор собственного языка}{https://github.com/kzueirf12345/masik}{
+Рекурсивный спуск. Свёртка констант и тривиальных выражений. IR с пассом dead-code-elimination и kill-unused-variables. Трансляция в elf, nasm и свой функциональный симулятор ассемблера.}
+
+\cvproject{Март 2025}{Низкоуровневые оптимизации на примере множества Мандельброта}{https://github.com/kzueirf12345/mandelbrat2}{
+Визуализация множества Мандельброта при помощи SDL2. Оценка улучшения производительности посредством использования SIMD-инструкций, развёртывания (loop unrolling) и PGO (Profile-guided optimization).}
+
+\cvproject{Май 2022 - Май 2023}{Моделирование развития дефектов в кристаллической решётке}{https://github.com/kzueirf12345/Programm_IpoF}{
+Минимизация полной энергии в кристалле методом градиентного спуска. Численное интегрирование.}
+
+\section{\color{primary}\faBook\ Научные статьи}
+\cvproject{Июнь 2023}{Полимерная плёнка, модифицированная фотокаталитическими и плазмонными наночастицами для самоочищающихся фильтров}{https://www.mdpi.com/2073-4360/15/3/726}{
+Модификация полимера TiO2 и наночастицами Ag золь-гель и гидротермальным методами. ЧПУ-станок для равномерной толщины плёнки. Порирование ультрафиолетом. Сравнение с аналогами на примере Bacillus subtilis.}
+
+\section{\color{primary}\faCogs\ Навыки}
+\begin{itemize}[leftmargin=*,nosep]
+    \item \textbf{Языки программирования}: C/C++, Python, ассемблер x86-64 и DOS, \LaTeX, RTL.
+    \item \textbf{Инструменты}: Git, Linux, Make/CMake, Doxygen, radare2, Ghidra, IDA, SFML, SDL, GNUPlot, matplotlib, HTML/CSS, Figma, Flex, Bison.
+    \item \textbf{Инженерия}: Fusion 360, SolidWorks, CorelDRAW, черчение, работа с ЧПУ-станком, пайка, рамановская спектроскопия.
+    \item \textbf{Языки}: Английский (B2), Русский (родной).
+\end{itemize}
+
+\section{\color{primary}\faTrophy\ Достижения}
+\cvitem{2024}{Призёр регионального этапа ВсОШ по информатике (Московская область).}
+\cvitem{2024}{Победитель олимпиады Росатом по информатике.}
+\cvitem{2024}{Призёр 2 степени олимпиады "Миссия выполнима. Твоё призвание - финансист!" по математике.}
+\cvitem{2022-2023}{Двухкратный победитель конкурса проектов «Большие вызовы» по направлению «Нанотехнологии».}
+
+\end{document}
