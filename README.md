@@ -55,15 +55,21 @@
   <img src="https://img.shields.io/badge/Git-f7768e?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b26" alt="Git" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Linux-c0caf5?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b26" alt="Linux" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/CMake-008080?style=for-the-badge&logo=cmake&logoColor=white&labelColor=1a1b26" alt="CMake" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Make-e0af68?style=for-the-badge&logo=gnu&logoColor=white&labelColor=1a1b26" alt="Make" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/HTML5-e0af68?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b26" alt="HTML5" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/CSS3-7aa2f7?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b26" alt="CSS3" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Figma-f7768e?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b26" alt="Figma" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Fusion_360-7dcfff?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=1a1b26" alt="Fusion 360" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Matplotlib-9ece6a?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b26" alt="Matplotlib" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/SDL-7aa2f7?style=for-the-badge&labelColor=1a1b26&color=7aa2f7" alt="SDL" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/SFML-9ece6a?style=for-the-badge&labelColor=1a1b26&color=9ece6a" alt="SFML" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Doxygen-9ece6a?style=for-the-badge&logo=doxygen&logoColor=white&labelColor=1a1b26" alt="Doxygen" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Bison-Parser-bb9af7?style=for-the-badge&labelColor=1a1b26&color=bb9af7" alt="Bison" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Flex-Lexer-bb9af7?style=for-the-badge&labelColor=1a1b26&color=bb9af7" alt="Flex" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/radare2-Reverse-f7768e?style=for-the-badge&labelColor=1a1b26&color=f7768e" alt="radare2" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Ghidra-Disassembler-f7768e?style=for-the-badge&labelColor=1a1b26&color=f7768e" alt="Ghidra" style="margin: 4px;"/>
 </div>
+
 
 ## Stats
 
