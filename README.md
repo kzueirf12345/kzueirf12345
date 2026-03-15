@@ -2,7 +2,7 @@
 
 # I'm Popov Vladimir
 
-> 🎓 DREC MIPT '27 | Computer Science & Engineering
+> 🎓 DREC MIPT '28 | Computer Science & Engineering
 
 > Check my **[CV](CV.pdf)**  
 
